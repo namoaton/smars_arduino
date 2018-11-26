@@ -1,0 +1,13 @@
+Smars         KEYWORD1
+begin         KEYWORD2
+get_distance  KEYWORD2
+move_forward  KEYWORD2
+move_back     KEYWORD2
+move_left     KEYWORD2
+move_right    KEYWORD2
+stop_move     KEYWORD2
+buzz          KEYWORD2
+parse_command KEYWORD2
+get_command   KEYWORD2
+control       KEYWORD2
+loop          KEYWORD2
